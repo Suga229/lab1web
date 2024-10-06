@@ -1,5 +1,4 @@
-
-    
+1. membuat paragraf.
     <p>
         kami sedang belajar HTML dasar, pada matakuliah pemrograman web di prodi
         teknik informatika universitas pelita bangsa. pelajaran pertama yang kami dapat
