@@ -86,3 +86,29 @@ lalu tambahkan tag img setelah paragraf kedua
 
     <img src="image.png" title="logo universitas pelita bangsa">
 
+5. menambahkan hyperlink
+tambahkan hyperlink diatas heading 1
+
+![image](https://github.com/user-attachments/assets/a2c6129d-a0e7-4c35-86de-fa84508160a8)
+
+    <nav>
+        <a href="lab1_tag_dasar.html">Dasar HTML</a>
+        <a href="lab1_halaman2.html">Halamn 2</a>
+        <a href="https://www.google.com">Halaman web eksternal google</a>
+    </nav>
+    <h1>Belajar Html</h1>
+    <p align="center">kami sedang belajar <b>HTML</b> dasar, pada matakuliah pemrograman web di prodi
+        teknik informatika universitas pelita bangsa. <i>pelajaran pertama</i> yang kami dapat
+        adalah membuat <mark>tampilan web sederhana</mark> dalam rangka mengenal tag-tag dasar
+        html.</p>
+
+    <h2>paragraf pada html</h2>
+    <p align="center">ini merupakan sebuah paragraf yang terdiri dari beberapa kalimat yang saling
+        mendukung sehingga menjadi satu kesatuan. paragraf dibuat dengan menggunakan
+        tag dasar html
+    </p>
+
+    <h3>menambahkan gambar</h3>
+
+    <img src="image.png" width="200" title="logo universitas pelita bangsa">
+
