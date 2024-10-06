@@ -29,8 +29,14 @@ setelah di menggunakan align="center"
         tag dasar html
     </p>
 
-2. menamahkan judul menggunakan h1 sampai h5
+2. menamahkan judul menggunakan tag heading (h1 sampai h5)
 
+- Tag Heading digunakan untuk membuat judul atau subjudul dengan ukuran dan hierarki yang - berbeda.
+- Heading 1 memiliki ukuran terbesar dan Heading 6 yang terkecil. Dalam kode ini, digunakan berbagai level heading untuk menampilkan judul dengan tingkatan yang berbeda:
+- Heading 1 tingkat pertama, digunakan untuk judul utama.
+- Heading 2 tingkat kedua, untuk subjudul besar.
+- 3 - 6 Heading dengan ukuran lebih kecil dari yang sebelumnya, digunakan untuk sub-sub judul.
+  
 ![image](https://github.com/user-attachments/assets/40885630-de28-440f-b201-0ba23535b5a2)
 
     <h1>Belajar Html</h1>
