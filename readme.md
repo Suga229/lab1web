@@ -28,3 +28,19 @@ setelah di menggunakan align="center"
         mendukung sehingga menjadi satu kesatuan. paragraf dibuat dengan menggunakan
         tag dasar html
     </p>
+
+2. menamahkan judul
+
+![image](https://github.com/user-attachments/assets/40885630-de28-440f-b201-0ba23535b5a2)
+
+    <h1>Belajar Html</h1>
+    <p align="center">kami sedang belajar HTML dasar, pada matakuliah pemrograman web di prodi
+        teknik informatika universitas pelita bangsa. pelajaran pertama yang kami dapat
+        adalah membuat tampilan web sederhana dalam rangka mengenal tag-tag dasar
+        html.</p>
+
+    <h2>paragraf pada html</h2>
+    <p align="center">ini merupakan sebuah paragraf yang terdiri dari beberapa kalimat yang             saling
+        mendukung sehingga menjadi satu kesatuan. paragraf dibuat dengan menggunakan
+        tag dasar html
+        
