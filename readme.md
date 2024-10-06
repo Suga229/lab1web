@@ -29,7 +29,7 @@ setelah di menggunakan align="center"
         tag dasar html
     </p>
 
-2. menamahkan judul
+2. menamahkan judul menggunakan h1 sampai h5
 
 ![image](https://github.com/user-attachments/assets/40885630-de28-440f-b201-0ba23535b5a2)
 
