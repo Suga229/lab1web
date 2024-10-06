@@ -61,5 +61,6 @@ setelah di menggunakan align="center"
     </p>
 
 4. menyisipkan gambar
+
 siapkan gambar terlebih dahulu lalu simpan di folder yang sama dengan file html.
 ![image](https://github.com/user-attachments/assets/2b3ce2aa-a42c-4bb4-bca5-611adaccb368)
