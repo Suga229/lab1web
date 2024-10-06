@@ -63,4 +63,26 @@ setelah di menggunakan align="center"
 4. menyisipkan gambar
 
 siapkan gambar terlebih dahulu lalu simpan di folder yang sama dengan file html.
+
 ![image](https://github.com/user-attachments/assets/2b3ce2aa-a42c-4bb4-bca5-611adaccb368)
+
+lalu tambahkan tag img setelah paragraf kedua
+
+![image](https://github.com/user-attachments/assets/bc38b49d-c821-4260-90a5-31918075b3f6)
+
+    <h1>Belajar Html</h1>
+    <p align="center">kami sedang belajar <b>HTML</b> dasar, pada matakuliah pemrograman web di prodi
+        teknik informatika universitas pelita bangsa. <i>pelajaran pertama</i> yang kami dapat
+        adalah membuat <mark>tampilan web sederhana</mark> dalam rangka mengenal tag-tag dasar
+        html.</p>
+
+    <h2>paragraf pada html</h2>
+    <p align="center">ini merupakan sebuah paragraf yang terdiri dari beberapa kalimat yang saling
+        mendukung sehingga menjadi satu kesatuan. paragraf dibuat dengan menggunakan
+        tag dasar html
+    </p>
+
+    <h3>menambahkan gambar</h3>
+
+    <img src="image.png" title="logo universitas pelita bangsa">
+
